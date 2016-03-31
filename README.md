@@ -1,1 +1,1 @@
-# kaki - open source messenger
+# khaki - open source messenger
